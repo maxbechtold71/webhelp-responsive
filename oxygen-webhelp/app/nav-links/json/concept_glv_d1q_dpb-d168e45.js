@@ -1,0 +1,1 @@
+define({"topics":[{"title":"Calculating Ability Score Race Bonuses","shortdesc":"<p class=\"shortdesc\">Races are important to your ability scores because they offer unique bonuses. <\/p>","href":"task3.html","attributes":{"data-id":"task3"},"menu":{"hasChildren":false},"tocID":"task3-d168e56","topics":[]}]});

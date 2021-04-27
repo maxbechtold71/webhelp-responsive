@@ -1,0 +1,1 @@
+define({"topics":[{"title":"Point Buy Values for Ability Scores","shortdesc":"<p class=\"shortdesc\">The table below shows which ability scores you can choose with the point buy system         as well as how much they cost.<\/p>","href":"reference2.html","attributes":{"data-id":"reference2"},"menu":{"hasChildren":false},"tocID":"reference2-d179e46","topics":[]}]});
